@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: ce5cce3828dc59f4a9a0fb4463791606
+  productGUID: b7d35ec6f29f0cd49b4279dc1dc4dd97
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Testing
+  productName: Group Project Testing stuff
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -838,14 +838,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Testing
+  metroPackageName: Group Project Testing stuff
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Testing
+  metroApplicationDescription: Group Project Testing stuff
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -915,10 +915,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: b8fe4486-8ca2-4b03-892e-22b00d14d555
+  cloudProjectId: 31fe7beb-114a-484d-b7a4-053bc0574c06
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Testing
+  projectName: Group Project Testing stuff
   organizationId: daniel75642
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

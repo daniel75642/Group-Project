@@ -3,7 +3,39 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - pressurePlate
+  - box
+  - ventEnd
+  - keepOpenDoor
+  - floorPlaceable
+  - scanner
+  - rightWallPlaceable
+  - mirror
+  - playerDestroy
+  - water
+  - player
+  - forwardWallPlaceable
+  - pipe1
+  - pipe2
+  - pipe3
+  - pipePlace1
+  - pipePlace2
+  - pipePlace3
+  - pipe4
+  - pipe5
+  - pipe6
+  - pipePlace4
+  - pipePlace5
+  - pipePlace6
+  - ladder
+  - ladder2
+  - ladder3
+  - blimp
+  - firstTp
+  - laser
+  - hint1
+  - SteamArea
   layers:
   - Default
   - TransparentFX
@@ -11,16 +43,16 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - whatIsGround
+  - solarPlaceable
+  - player
+  - vine
+  - ventHit
+  - box
+  - reflectable
+  - Lazer Shooter
+  - pipeLayer
+  - findable
   - 
   - 
   - 
